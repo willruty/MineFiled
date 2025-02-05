@@ -27,6 +27,6 @@
 
 ## Resultados
 
-![Demonstração](JogoMestredeTI-GoogleChrome2025-02-0320-07-27-ezgif.com-video-to-gif-converter.gif)
-
-
+- [x] Ter meus conhecimentos em java e lógica de programação aprofundados e "frescos";
+- [x] Aprender um pouco sobre bibliotecas desenvolvidas em java visadas para algo mais visual como o Swing;
+- [x] Aumentar minha experiência com java e ter mais fluência com a linguagem; 
